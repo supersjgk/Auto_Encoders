@@ -3,7 +3,7 @@
 #### Files:
 ###### AutoEncoder_Fashion_Mnist.ipynb:
 * Normal Autoencoder made up of Dense layers
-* Dataset - Fashion mnist [https://github.com/zalandoresearch/fashion-mnist]
+* Dataset - Fashion mnist https://github.com/zalandoresearch/fashion-mnist
 
 ###### Convolutional_AutoEncoder_TF_Keras.ipynb:
 * Autoencoder made up of Conv2D layers
